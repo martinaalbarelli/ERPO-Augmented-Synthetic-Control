@@ -35,10 +35,10 @@ The same analytical workflow was applied across all state-specific and outcome-s
 To reproduce a different analysis, users should update:
 
 - the treated state (all references),
-- the intervention year (all references),
+- the treatment year (all references),
 - the outcome variable (overall, male, or female firearm homicide rates),
 - figure labels and output file names.
 
 All other data preparation procedures, donor pool restrictions, model specifications, placebo tests, and robustness checks were kept consistent across analyses.
 
-This version reproduces the analysis for Colorado (intervention year: 2020) and female firearm homicide rates.
+This version reproduces the analysis for Colorado (treatment year: 2020) and female firearm homicide rates.
