@@ -42,3 +42,7 @@ To reproduce a different analysis, users should update:
 All other data preparation procedures, donor pool restrictions, model specifications, placebo tests, and robustness checks were kept consistent across analyses.
 
 This version reproduces the analysis for Colorado (treatment year: 2020) and female firearm homicide rates.
+
+## Software
+
+Analyses were conducted using Python 3 and the PySynCon package.
