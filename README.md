@@ -45,4 +45,4 @@ This version reproduces the analysis for Colorado (treatment year: 2020) and fem
 
 ## Software
 
-Analyses were conducted using Python 3 and the PySynCon package.
+Analyses were conducted using Python version 3.12.13. and the PySynCon package.
